@@ -1,2 +1,2 @@
 # BillingSoftware
-This is a e commerce software where customer can buy the products, add them in card. 
+This is an E-Commerce software where customer can buy the products, add them in card. 
